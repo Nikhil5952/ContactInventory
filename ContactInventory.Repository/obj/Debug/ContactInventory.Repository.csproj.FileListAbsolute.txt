@@ -1,0 +1,10 @@
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\ContactInventory.Repository.dll
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\ContactInventory.Repository.pdb
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\EntityFramework.dll
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\EntityFramework.xml
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\obj\Debug\ContactInventory.Repository.csprojResolveAssemblyReference.cache
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\obj\Debug\ContactInventory.Repository.dll
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\obj\Debug\ContactInventory.Repository.pdb
+C:\Nikhil\Assignment\ContactInventory.API\ContactInventory.Repository\bin\Debug\ContactInventory.Repository.dll.config
